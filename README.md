@@ -5,6 +5,4 @@
 
 相关链接：
 
-protobuf-2.5.0.tar.gz的下载与安装_听见下雨的声音hb的博客-CSDN博客_protobuf-3.7.1.tar.gz
-
-图文介绍IDEA开发环境安装protobuf插件，生成java代码_石头城程序猿的博客-CSDN博客_idea protocol 生成代码
+https://www.cnblogs.com/bookc/p/16518274.html
